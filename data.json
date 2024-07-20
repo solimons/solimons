@@ -1,263 +1,350 @@
 {
   "5281": {
-      "value": 300
+      "value": 300,
+      "name": "Paintball Enthusiast"
   },
   "5136": {
-      "value": 150
+      "value": 150,
+      "name": "Red Baseball Cap"
   },
   "5118": {
-      "value": 500
+      "value": 500,
+      "name": "The Agonizingly Ugly Bucket of Doom"
   },
   "5045": {
-      "value": 450
+      "value": 450,
+      "name": "Dual Spec Gamma Biograft Energy Sword "
   },
   "5023": {
-      "value": 700
+      "value": 700,
+      "name": "Headdress of Aken-Aten, the Sun King"
   },
   "4903": {
-      "value": 250
+      "value": 250,
+      "name": "Thought Fortress"
   },
   "4859": {
-      "value": 1450
+      "value": 1450,
+      "name": "Telamon Hair"
   },
   "4839": {
-      "value": 1100
+      "value": 1100,
+      "name": "The Void Star"
   },
   "4828": {
-      "value": 200
+      "value": 200,
+      "name": "Lightbulb"
   },
   "4557": {
-      "value": 150
+      "value": 150,
+      "name": "The Earth"
   },
   "4404": {
-      "value": 500
+      "value": 500,
+      "name": "Musica Frigidus Dominator"
   },
   "4403": {
-      "value": 350
+      "value": 350,
+      "name": "Classical Glory"
   },
   "4377": {
-      "value": 600
+      "value": 600,
+      "name": "Darkseed the Fallen"
   },
   "4371": {
-      "value": 1750
+      "value": 1750,
+      "name": "): Euro 180"
   },
   "4301": {
-      "value": 200
+      "value": 200,
+      "name": "The Bluesteel Bathelm"
   },
   "4128": {
-      "value": 300
+      "value": 300,
+      "name": "Adurite Antlers"
   },
   "3943": {
-      "value": 200
+      "value": 200,
+      "name": "Helm of the Flashing Bolt"
   },
   "3733": {
-      "value": 450
+      "value": 450,
+      "name": "Beast Mode"
   },
   "3700": {
-      "value": 1250
+      "value": 1250,
+      "name": "White Sparkle Time Fedora"
   },
   "3608": {
-      "value": 300
+      "value": 300,
+      "name": "Stone Samurai"
   },
   "3428": {
-      "value": 75
+      "value": 75,
+      "name": "Lime Glasses"
   },
   "3340": {
-      "value": 1500
+      "value": 1500,
+      "name": "Red Tango"
   },
   "3339": {
-      "value": 500
+      "value": 500,
+      "name": "Immortal Sword: Endless Ice Slasher"
   },
   "3321": {
-      "value": 350
+      "value": 350,
+      "name": "Scissors"
   },
   "3191": {
-      "value": 300
+      "value": 300,
+      "name": "Clown Face"
   },
   "2916": {
-      "value": 550
+      "value": 550,
+      "name": "Golden Horns of Pwnage"
   },
   "2909": {
-      "value": 300
+      "value": 300,
+      "name": "Black Iron Commando"
   },
   "2896": {
-      "value": 150
+      "value": 150,
+      "name": "Blizzaria Warlock"
   },
   "2889": {
-      "value": 2500
+      "value": 2500,
+      "name": "Ghosdeeri"
   },
   "2873": {
-      "value": 100
+      "value": 100,
+      "name": "Classic Birthday Cake Hat"
   },
   "2661": {
-      "value": 1400
+      "value": 1400,
+      "name": "Dominus Libertatem"
   },
   "2602": {
-      "value": 800
+      "value": 800,
+      "name": "American Sparkle Time Fedora"
   },
   "2521": {
-      "value": 150
+      "value": 150,
+      "name": "Flagsplosion"
   },
   "2499": {
-      "value": 300
+      "value": 300,
+      "name": "Sword of Light"
   },
   "2435": {
-      "value": 250
+      "value": 250,
+      "name": "American Commando"
   },
   "2414": {
-      "value": 200
+      "value": 200,
+      "name": "Happy Patriotic Magic Flower Hat"
   },
   "2336": {
-      "value": 1200
+      "value": 1200,
+      "name": "Dominus Rex"
   },
   "2305": {
-      "value": 200
+      "value": 200,
+      "name": "American Cowboy"
   },
   "2223": {
-      "value": 100
+      "value": 100,
+      "name": "Americone the Beautiful"
   },
   "2197": {
-      "value": 300
+      "value": 300,
+      "name": "Flag"
   },
   "2054": {
-      "value": 250
+      "value": 250,
+      "name": "Immortal Sword: American Splendor"
   },
   "2026": {
-      "value": 550
+      "value": 550,
+      "name": "Arctic Commando"
   },
   "2022": {
-      "value": 400
+      "value": 400,
+      "name": "Transient Harmonica"
   },
   "1893": {
-      "value": 100
+      "value": 100,
+      "name": "American Eagle"
   },
   "1810": {
-      "value": 250
+      "value": 250,
+      "name": "Mrs. Tentacles"
   },
   "1755": {
-      "value": 500
+      "value": 500,
+      "name": "Solarium Antlers"
   },
   "1746": {
-      "value": 200
+      "value": 200,
+      "name": "Blue Sparkle Time Bowler"
   },
   "1744": {
-      "value": 300
+      "value": 300,
+      "name": "Al Capwn"
   },
   "1712": {
-      "value": 350
+      "value": 350,
+      "name": "Viridian Domino Crown"
   },
   "1698": {
-      "value": 1000
+      "value": 1000,
+      "name": "Bluesteel Fedora"
   },
   "1655": {
-      "value": 250
+      "value": 250,
+      "name": "Fuchsia Periastron Ros\u00e9"
   },
   "1621": {
-      "value": 550
+      "value": 550,
+      "name": "Dual Illumina"
   },
   "1513": {
-      "value": 1750
+      "value": 1750,
+      "name": "Dominus Pittacium"
   },
   "1492": {
-      "value": 800
+      "value": 800,
+      "name": "): Purple Indy"
   },
   "1484": {
-      "value": 150
+      "value": 150,
+      "name": "Traffic Cone"
   },
   "1481": {
-      "value": 150
+      "value": 150,
+      "name": "Emo Boa"
   },
   "1468": {
-      "value": 250
+      "value": 250,
+      "name": "Solario Madness Face"
   },
   "1410": {
-      "value": 250
+      "value": 250,
+      "name": "Noir Periastron Psi"
   },
   "1282": {
-      "value": 100
+      "value": 100,
+      "name": "Fancy Skateboard"
   },
   "1260": {
-      "value": 200
+      "value": 200,
+      "name": "The Ice Skull of Nevermoor"
   },
   "1234": {
-      "value": 2500
+      "value": 2500,
+      "name": "Midnight Blue Sparkle Time Fedora"
   },
   "1214": {
-      "value": 250
+      "value": 250,
+      "name": "Wanwood Antlers"
   },
   "1213": {
-      "value": 500
+      "value": 500,
+      "name": "Eyes of Emeraldwrath"
   },
   "1167": {
-      "value": 125
+      "value": 125,
+      "name": "Teddy Bear Hat"
   },
   "934": {
-      "value": 150
+      "value": 150,
+      "name": "Rubber Duckie"
   },
   "890": {
-      "value": 550
+      "value": 550,
+      "name": "The Classic Solario Fedora"
   },
   "868": {
-      "value": 75
+      "value": 75,
+      "name": "Ultimate Victory Headband"
   },
   "861": {
-      "value": 1000
+      "value": 1000,
+      "name": "Countess of the Federation"
   },
   "571": {
-      "value": 100
+      "value": 100,
+      "name": "The Riddling Skull"
   },
   "505": {
-      "value": 250
+      "value": 250,
+      "name": "Agonizingly Red Bucket of Cheer"
   },
   "489": {
-      "value": 300
+      "value": 300,
+      "name": "Wanwood Sparkle Time Fedora"
   },
   "387": {
-      "value": 200
+      "value": 200,
+      "name": "Black Iron Antlers"
   },
   "383": {
-      "value": 150
+      "value": 150,
+      "name": "Noob Assist: S'mores Snacker"
   },
   "381": {
-      "value": 600
+      "value": 600,
+      "name": "Linked Sword"
   },
   "312": {
-      "value": 275
+      "value": 275,
+      "name": "Perfectly Legitimate Business Hat"
   },
   "6783": {
-    "value": 0
+      "value": 0,
+      "name": "Brainfreeze Egg"
   },
   "6730": {
-    "value": 500
+      "value": 500,
+      "name": "The Crown of Warlords"
   },
   "6626": {
-    "value": 600
+      "value": 600,
+      "name": "Super Super Happy Face"
   },
   "6303": {
-    "value": 300
+      "value": 300,
+      "name": "Silverthorn Antlers"
   },
   "6274": {
-    "value": 600
+      "value": 600,
+      "name": "Blizzard Beast Mode"
   },
   "6131": {
-    "value": 1000
+      "value": 1000,
+      "name": "Rainbow Periastron Omega"
   },
   "6038": {
-    "value": 150
+      "value": 150,
+      "name": " Beautiful Hair for Beautiful Space People"
   },
   "5607": {
-    "value": 1500
+      "value": 1500,
+      "name": "Clockwork's Headphones"
   },
   "5503": {
-    "value": 170
+      "value": 170,
+      "name": "The Moon"
   },
   "5409": {
-    "value": 1000
+      "value": 1000,
+      "name": "The Ochre Eye"
   },
   "5390": {
-    "value": 0
+      "value": 0,
+      "name": "Corrupt Pumpkin of 101"
   },
   "6809": {
-    "value": 0
+      "value": 0,
+      "name": "The Midas Star"
   }
 }
