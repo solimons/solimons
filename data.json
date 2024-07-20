@@ -346,5 +346,13 @@
   "6809": {
       "value": 0,
       "name": "The Midas Star"
+  },
+  "6893": {
+    "value": 435,
+    "name": "Blue Top Hat with White Band"
+  },
+  "3387": {
+    "value": 140,
+    "name": "Brown Tix Top Hat"
   }
 }
