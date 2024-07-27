@@ -378,5 +378,21 @@
     "7851": {
     "value": 3000,
     "name": "Dominus Aureus"
+  },
+    "8034": {
+    "value": 750,
+    "name": "Green Queen of the Night"
+  },
+    "8235": {
+    "value": 700,
+    "name": "Official's Hat"
+  },
+    "8330": {
+    "value": 1000,
+    "name": "Winter Conjurer"
+  },
+    "8471": {
+    "value": 2000,
+    "name": "Clockwork's Shades"
   }
 }
