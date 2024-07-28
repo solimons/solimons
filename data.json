@@ -698,5 +698,12 @@
         "prev": [
             2000
         ]
+    },
+    "8558": {
+        "value": 1750,
+        "name": "WC Ultimates: Citrine Celebration",
+        "prev": [
+            1750
+        ]
     }
 }
