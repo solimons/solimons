@@ -1,16 +1,16 @@
 {
-    "62": {
-        "value": 100,
-        "name": "Bucket",
+    "968": {
+        "value": 350,
+        "name": "The Classic SOLARIO Fedora",
         "prev": [
-            100
+            350
         ]
     },
-    "22": {
-        "value": 300,
-        "name": "Purple Shaggy",
+    "796": {
+        "value": 150,
+        "name": "The Bluesteel Bathelm",
         "prev": [
-            300
+            150
         ]
     }
 }
