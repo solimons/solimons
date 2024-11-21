@@ -26,5 +26,26 @@
         "prev": [
             100
         ]
+    },
+    "1196": {
+        "value": 750,
+        "name": "Red Sparkle Time Fedora",
+        "prev": [
+            750
+        ]
+    },
+    "1197": {
+        "value": 1000,
+        "name": "Doomsekkar",
+        "prev": [
+            1000
+        ]
+    },
+    "1202": {
+        "value": 600,
+        "name": "Sinister P",
+        "prev": [
+            600
+        ]
     }
 }
